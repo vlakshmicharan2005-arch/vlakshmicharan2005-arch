@@ -64,8 +64,8 @@ Some of the projects I have worked on:
 ## 📫 Contact Me
 
 - 🐙 GitHub: https://github.com/vlakshmicharan2005-arch  
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/lakshmi-charan
+- 📧 Email: v.l.charan2006@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/lakshmi-charan-a5370a34b
 
 ---
 
