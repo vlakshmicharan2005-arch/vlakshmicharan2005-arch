@@ -1,78 +1,70 @@
-# 👋 Hi, I’m a Web Developer
+👋 Hi, I’m Venkatesugari Lakshmicharan
+Welcome to my GitHub profile!
 
-Welcome to my GitHub profile!  
-I am a passionate **Web Developer** who loves building **responsive, scalable, and user-friendly web applications** using modern technologies.
+I am a passionate Java Full Stack Developer dedicated to building scalable, secure, and high-performance enterprise web applications.
 
----
+🚀 About Me
+💻 Java Full Stack Developer (Spring Boot & Modern Frontend)
 
-## 🚀 About Me
+🌱 Deepening my knowledge in Microservices Architecture
 
-- 💻 Web Developer (Frontend & Backend)
-- 🌱 Currently improving my skills in web technologies
-- 🔍 Interested in real-time applications & problem solving
-- 🤝 Open to collaboration and learning opportunities
+🔍 Interested in Cloud Computing & System Design
 
----
+🤝 Open to collaborating on open-source Java projects
 
-## 🛠️ Technical Skills
+🛠️ Technical Skills
+⚙️ Backend (The Core)
+Languages: Java (8/11/17+), SQL
 
-### 🌐 Frontend
-- HTML5  
-- CSS3  
-- JavaScript  
-- Bootstrap / Tailwind CSS  
+Frameworks: Spring Boot, Spring MVC, Spring Security, Spring Data JPA
 
-### ⚙️ Backend
-- Python (Flask / Django)  
-- Java (Spring Boot – basic)  
-- RESTful APIs  
+Testing: JUnit 5, Mockito
 
-### 🗄️ Database
-- MySQL  
-- MongoDB  
-- PostgreSQL  
+🌐 Frontend
+Frameworks: Angular / React (Pick your primary)
 
-### 🔧 Tools
-- Git & GitHub  
-- VS Code  
-- Postman  
-- Linux / Windows  
+Languages: TypeScript, JavaScript (ES6+)
 
----
+Styling: HTML5, CSS3, Bootstrap / Tailwind CSS
 
-## 📂 Projects
+🗄️ Database & Cache
+Relational: PostgreSQL, MySQL, Oracle
 
-Some of the projects I have worked on:
+NoSQL: MongoDB
 
-- 🌐 Responsive Web Applications  
-- 🔗 REST API Based Projects  
-- 📊 Data-driven & real-time projects  
+Caching: Redis
 
-👉 Explore my repositories to see my work.
+🔧 DevOps & Tools
+Version Control: Git & GitHub
 
----
+Build Tools: Maven, Gradle
 
-## 📚 Currently Learning
+Containers: Docker
 
-- Advanced JavaScript  
-- Backend optimization  
-- Data Analytics & Visualization  
-- Cloud & deployment basics  
+APIs: Postman, Swagger / OpenAPI
 
----
+📂 Key Java Projects
+🏦 Banking/E-Commerce API: A Microservices-based backend using Spring Cloud and Config Server.
 
-## 📫 Contact Me
+🔐 Security Implementation: A full-stack app featuring JWT (JSON Web Token) authentication and Role-Based Access Control (RBAC).
 
-- 🐙 GitHub: https://github.com/vlakshmicharan2005-arch  
-- 📧 Email: v.l.charan2006@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/lakshmi-charan-a5370a34b
+⚡ Real-time Dashboard: A Spring Boot & React application using WebSockets for live data updates.
 
----
+📚 Currently Learning
+Cloud Deployment: AWS (EC2, S3, RDS)
 
-## 🎯 Goal
+Orchestration: Kubernetes basics
 
-To become a skilled **Full Stack Web Developer** and contribute to impactful real-world projects.
+Messaging: Apache Kafka or RabbitMQ
 
----
+Performance Tuning: JVM optimization
 
-⭐ If you like my work, don’t forget to **star** the repositories!
+📫 Contact Me
+🐙 GitHub: vlakshmicharan2005-arch
+
+📧 Email: v.l.charan2006@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/lakshmi-charan-a5370a34b/
+
+🎯 Professional Goal
+To build robust, industrial-grade software using the Java Ecosystem and contribute to solving complex business problems through clean, maintainable code.
